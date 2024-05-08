@@ -16,9 +16,5 @@ public class CursoAwsCdkStack extends Stack {
 
         // The code that defines your stack goes here
 
-        // example resource
-        // final Queue queue = Queue.Builder.create(this, "CursoAwsCdkQueue")
-        //         .visibilityTimeout(Duration.seconds(300))
-        //         .build();
     }
 }
